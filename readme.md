@@ -4,13 +4,14 @@
 
 LICENSE: [MIT](./license.md)
 
-![](./assets/1280px-Git-logo.svg.png)
+![](./assets/Git-logo.svg)
 
 ---
-Содержание
-1.
-2.
-3.
+Содержание:
+
+ 1.
+ 2.
+ 3. [git add](./add.md)
 
 ---
 
