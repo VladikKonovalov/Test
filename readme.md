@@ -16,9 +16,10 @@ LICENSE: [MIT](./license.md)
  5. [git clone](./git%20clone.md)
  6. [Работа в удаленном репозитории
 ](./Working%20in%20a%20remote%20repository.md)
- 7. 
- 8.
- 9.
+ 7. [Получение данных о состоянии репозитория](./data%20about%20the%20state%20of%20the%20repository.md)
+
+8. [Файл .gitignore](./gitignore.md)
+
 
 ---
 
