@@ -20,6 +20,8 @@ LICENSE: [MIT](./license.md)
 
 8. [Файл .gitignore](./gitignore.md)
 
+9. [__Ветвление__](./branching.md)
+
 
 ---
 
