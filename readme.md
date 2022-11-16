@@ -12,6 +12,13 @@ LICENSE: [MIT](./license.md)
  1. [git config](./git%20config.md)
  2. [git init](./git%20init.md)
  3. [git add](./add.md)
+ 4. [git commit](./git%20commit.md)
+ 5. [git clone](./git%20clone.md)
+ 6. [Работа в удаленном репозитории
+](./Working%20in%20a%20remote%20repository.md)
+ 7. 
+ 8.
+ 9.
 
 ---
 
