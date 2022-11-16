@@ -22,7 +22,7 @@ LICENSE: [MIT](./license.md)
 
 9. [__Ветвление__](./branching.md)
 
-
+10. [__Конфликты__](./conflicts.md)
 ---
 
 GIT logo Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
